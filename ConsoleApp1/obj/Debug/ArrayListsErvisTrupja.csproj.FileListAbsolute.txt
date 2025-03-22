@@ -1,0 +1,7 @@
+C:\Users\KL3555\OneDrive - Hitachi Energy\Desktop\ArrayListsErvisTrupja\ConsoleApp1\bin\Debug\ArrayListsElvisTrupja.exe.config
+C:\Users\KL3555\OneDrive - Hitachi Energy\Desktop\ArrayListsErvisTrupja\ConsoleApp1\bin\Debug\ArrayListsElvisTrupja.exe
+C:\Users\KL3555\OneDrive - Hitachi Energy\Desktop\ArrayListsErvisTrupja\ConsoleApp1\bin\Debug\ArrayListsElvisTrupja.pdb
+C:\Users\KL3555\OneDrive - Hitachi Energy\Desktop\ArrayListsErvisTrupja\ConsoleApp1\obj\Debug\ArrayListsErvisTrupja.csproj.AssemblyReference.cache
+C:\Users\KL3555\OneDrive - Hitachi Energy\Desktop\ArrayListsErvisTrupja\ConsoleApp1\obj\Debug\ArrayListsErvisTrupja.csproj.CoreCompileInputs.cache
+C:\Users\KL3555\OneDrive - Hitachi Energy\Desktop\ArrayListsErvisTrupja\ConsoleApp1\obj\Debug\ArrayListsElvisTrupja.exe
+C:\Users\KL3555\OneDrive - Hitachi Energy\Desktop\ArrayListsErvisTrupja\ConsoleApp1\obj\Debug\ArrayListsElvisTrupja.pdb
