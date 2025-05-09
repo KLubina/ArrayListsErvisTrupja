@@ -5,3 +5,10 @@ C:\Users\KL3555\OneDrive - Hitachi Energy\Desktop\ArrayListsErvisTrupja\ConsoleA
 C:\Users\KL3555\OneDrive - Hitachi Energy\Desktop\ArrayListsErvisTrupja\ConsoleApp1\obj\Debug\ArrayListsErvisTrupja.csproj.CoreCompileInputs.cache
 C:\Users\KL3555\OneDrive - Hitachi Energy\Desktop\ArrayListsErvisTrupja\ConsoleApp1\obj\Debug\ArrayListsElvisTrupja.exe
 C:\Users\KL3555\OneDrive - Hitachi Energy\Desktop\ArrayListsErvisTrupja\ConsoleApp1\obj\Debug\ArrayListsElvisTrupja.pdb
+C:\GitHubDesktop\ArrayListsErvisTrupja\ConsoleApp1\bin\Debug\ArrayListsElvisTrupja.exe.config
+C:\GitHubDesktop\ArrayListsErvisTrupja\ConsoleApp1\bin\Debug\ArrayListsElvisTrupja.exe
+C:\GitHubDesktop\ArrayListsErvisTrupja\ConsoleApp1\bin\Debug\ArrayListsElvisTrupja.pdb
+C:\GitHubDesktop\ArrayListsErvisTrupja\ConsoleApp1\obj\Debug\ArrayListsErvisTrupja.csproj.AssemblyReference.cache
+C:\GitHubDesktop\ArrayListsErvisTrupja\ConsoleApp1\obj\Debug\ArrayListsErvisTrupja.csproj.CoreCompileInputs.cache
+C:\GitHubDesktop\ArrayListsErvisTrupja\ConsoleApp1\obj\Debug\ArrayListsElvisTrupja.exe
+C:\GitHubDesktop\ArrayListsErvisTrupja\ConsoleApp1\obj\Debug\ArrayListsElvisTrupja.pdb
